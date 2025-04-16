@@ -10,7 +10,7 @@ The **Ariel Voice Generation** Unity asset allows you to create high-quality voi
 
 ## 🧩 Installation
 
-1. Import the asset into your Unity project
+1. Import the asset into your Unity project in the `Asset` folder
 2. (Optional) Open the `DemoScene` to explore a working Runtime setup
 3. Start using the **Runtime component** or the **Editor Window**, depending on your workflow
 
